@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F7931E&center=true&vCenter=true&random=false&width=600&lines=Muhammad+Husnain+Ali+Nasir;Telecom+Data+Analyst+%26+Automation+Engineer;Full-Stack+Python+Developer;AI+%7C+ML+%7C+NLP+%7C+Voice+AI+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F7931E&center=true&vCenter=true&random=false&width=850&lines=Muhammad+Husnain+Ali+Nasir;Telecom+Data+Analyst+%26+Automation+Engineer;Full-Stack+Python+Developer;AI+%7C+ML+%7C+NLP+%7C+N8N+%7C+APIs" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -60,6 +60,8 @@
 ![scikit--learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-FF5722?style=for-the-badge)
+![vLLM](https://img.shields.io/badge/vLLM-02569B?style=for-the-badge)
 
 ### Web Frameworks
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -72,6 +74,9 @@
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Scrapy](https://img.shields.io/badge/Scrapy-60A839?style=for-the-badge&logo=scrapy&logoColor=white)
+![N8N](https://img.shields.io/badge/N8N-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
+![Make](https://img.shields.io/badge/Make-000000?style=for-the-badge&logo=make&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
 
 ### DevOps and Infrastructure
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -85,6 +90,7 @@
 ![SMPP](https://img.shields.io/badge/SMPP-FF4500?style=for-the-badge&logoColor=white)
 ![SIP](https://img.shields.io/badge/SIP%2FVoIP-4B0082?style=for-the-badge&logoColor=white)
 ![Whisper](https://img.shields.io/badge/Whisper_STT-412991?style=for-the-badge&logo=openai&logoColor=white)
+![WhatsApp_API](https://img.shields.io/badge/WhatsApp_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 
 ### Cloud and GPU
 ![RunPod](https://img.shields.io/badge/RunPod-6B3FA0?style=for-the-badge&logoColor=white)
