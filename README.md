@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/muhammad-husnain-ali-nasir-1b304394"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:muhammad.husnain.187@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <img src="https://komarev.com/ghpvc/?username=champhusnain&style=for-the-badge&color=orange" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=M-H-A-N&style=for-the-badge&color=orange" alt="Profile Views"/>
 </p>
 
 ---
@@ -102,22 +102,22 @@
 
 ## Featured Projects
 
-### [SPN-Voice-AI-SIP-Whisper-STT-LLM-TTS](https://github.com/champhusnain/SPN-Voice-AI-SIP-Whisper-STT-LLM-TTS)
+### [SPN-Voice-AI-SIP-Whisper-STT-LLM-TTS](https://github.com/M-H-A-N/SPN-Voice-AI-SIP-Whisper-STT-LLM-TTS)
 Real-time AI voice assistant over SIP telephony. Answers phone calls, transcribes speech (Faster-Whisper), queries LLM (Ollama), and synthesizes voice response (Edge-TTS).
 
-### [SPN-AI-Platform-RAG-Langchain](https://github.com/champhusnain/SPN-AI-Platform-RAG-Langchain)
+### [SPN-AI-Platform-RAG-Langchain](https://github.com/M-H-A-N/SPN-AI-Platform-RAG-Langchain)
 Enterprise AI analytics platform with 8 LangChain tool-calling agents and a 3-tier RAG pipeline (Redis, Pandas, ChromaDB) for telecom operations.
 
-### [Jasmin-SMS-Gateway-Django](https://github.com/champhusnain/Jasmin-SMS-Gateway-Django)
+### [Jasmin-SMS-Gateway-Django](https://github.com/M-H-A-N/Jasmin-SMS-Gateway-Django)
 Complete SMPP SMS routing infrastructure with Docker Compose deployment, Django admin panel, and Grafana/Prometheus monitoring.
 
-### [ComfyUI-Serverless-RunPod-Docker](https://github.com/champhusnain/ComfyUI-Serverless-RunPod-Docker)
+### [ComfyUI-Serverless-RunPod-Docker](https://github.com/M-H-A-N/ComfyUI-Serverless-RunPod-Docker)
 Dockerized ComfyUI Stable Diffusion workflows deployed as RunPod serverless GPU workers for AI image generation.
 
-### [MediaCore-Telecom-Playwright](https://github.com/champhusnain/MediaCore-Telecom-Playwright)
+### [MediaCore-Telecom-Playwright](https://github.com/M-H-A-N/MediaCore-Telecom-Playwright)
 Automated VoIP softswitch monitoring, XDR management, and real-time alerting via WhatsApp/Twilio for SPN Telecom.
 
-### [PERA-Government-Automation-Playwright](https://github.com/champhusnain/PERA-Government-Automation-Playwright)
+### [PERA-Government-Automation-Playwright](https://github.com/M-H-A-N/PERA-Government-Automation-Playwright)
 Government portal automation for PERA Punjab. Billing systems, user registration, and office document generation.
 
 ---
@@ -125,12 +125,12 @@ Government portal automation for PERA Punjab. Billing systems, user registration
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=champhusnain&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=champhusnain&theme=radical&hide_border=true" alt="GitHub Streak" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=M-H-A-N&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=M-H-A-N&theme=radical&hide_border=true" alt="GitHub Streak" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=champhusnain&layout=compact&theme=radical&hide_border=true&langs_count=10" alt="Top Languages" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-H-A-N&layout=compact&theme=radical&hide_border=true&langs_count=10" alt="Top Languages" width="48%"/>
 </p>
 
 ---
