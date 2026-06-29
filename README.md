@@ -122,15 +122,15 @@ Government portal automation for PERA Punjab. Billing systems, user registration
 
 ---
 
-## GitHub Stats
+## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=M-H-A-N&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=M-H-A-N&theme=radical&hide_border=true" alt="GitHub Streak" width="48%"/>
+  <img src="https://metrics.lecoq.io/M-H-A-N?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&config.timezone=Asia%2FKarachi" alt="GitHub Metrics" width="800"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-H-A-N&layout=compact&theme=radical&hide_border=true&langs_count=10" alt="Top Languages" width="48%"/>
+  <img src="https://metrics.lecoq.io/M-H-A-N?template=classic&isocalendar=1&isocalendar.duration=half-year&config.timezone=Asia%2FKarachi" alt="Commit Isocalendar" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=M-H-A-N&theme=radical&hide_border=true" alt="GitHub Streak" width="48%"/>
 </p>
 
 ---
